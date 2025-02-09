@@ -1,5 +1,5 @@
-select 'latha' as name,tech_lead as position
+select 'latha' as name,'tech_lead' as position
 union
-select 'nisha' as name,tech_lead as position
+select 'nisha' as name,'tech_lead' as position
 union
-select 'sandy' as name,Manager as position
+select 'sandy' as name,'Manager' as position
