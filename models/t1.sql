@@ -1,1 +1,1 @@
-Create or replace t1 (ID number,name varchar)
+Create or replace DBT_DB.DBT_NISHANTHIRAHUL.t1 (ID number,name varchar)
