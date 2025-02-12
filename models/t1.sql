@@ -1,0 +1,1 @@
+Create or replace t1 (ID number,name varchar)
